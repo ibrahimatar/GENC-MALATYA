@@ -1,12 +1,27 @@
-Genç Kart Projesi
-Amaç: Gençlere özel kampanya ve avantajları sunan dijital bir platform oluşturmaktı.
-Rolüm: Web arayüzünü sıfırdan tasarladım. Tasarım sürecinde üç kez template değiştirildi. Bu süreçte:
+Proje Hakkında 
+Genç Kart web sitesi, Genç Kart mobil uygulamasının tanıtımı ve
+içeriklerinin sunulması amacıyla geliştirilen bir projedir. 
+Gençlere yönelik avantajlar, kampanyalar ve dijital hizmetleri tek bir
+dijital platformda toplarken, genç kullanıcıların uygulama hakkında
+bilgi edinmesini ve geri bildirim göndermesini sağlamayı hedefler
 
-Mobil uyum (responsive design)
+Projenin Amacı: 
+Genç kullanıcı kitlesine yönelik avantajlı fırsatlar ve kampanyalar
+sunmak. 
+Dijital platformda kolay erişim ve kullanıcı dostu bir deneyim
+sağlamak. 
 
-Renk uyumu
+Benim Rolüm
+Pozisyon: Web Arayüzü Tasarımı
+Bu proje benim ilk staj projemdi ve belediyenin kurumsal web
+yapısına uygun bir çözüm sunmam gerekti. 
+Template Tasarımı: Proje sürecinde 3 kez template değişikliği
+yapıldı. Her seferinde görsel uyum, renk paleti, responsive (mobil
+uyumlu) tasarım ve kullanıcı dostu olmasına özen gösterdim. 
+Kullanıcı geri bildirimlerine göre tasarım üzerinde hızlı
+revizyonlar gerçekleştirdim.
 
-Kullanıcı dostu tasarım
-gibi kriterlere dikkat ettim.
-Teknolojiler: HTML, CSS, JavaScript, Bootstrap
-
+Kullandığım Teknolojiler
+HTML / CSS: Sayfa yapısı ve stil düzenlemeleri.
+Bootstrap: Responsive tasarım için framework kullanımı. 
+JavaScript: Etkileşimli kullanıcı öğeleri ve form doğrulamaları.
